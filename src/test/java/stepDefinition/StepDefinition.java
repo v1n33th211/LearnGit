@@ -54,7 +54,9 @@ public class StepDefinition extends Reusable{
 	    @And("^various contents are displayed$")
 	    public void various_contents_are_displayed() throws Throwable {
 	    	System.out.println("Code for validating -- various_contents_are_displayed");
+	    	System.out.println("By R");
 	   } 
+	   
 	
 
 }
