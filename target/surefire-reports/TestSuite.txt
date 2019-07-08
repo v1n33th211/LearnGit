@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.379 s <<< FAILURE! - in TestSuite
+assertValidations(quickLearn.TestCaseFourAssertion)  Time elapsed: 0.086 s  <<< FAILURE!
+java.lang.AssertionError: expected:<FEATURED COURSES> but was:<FEATUREDs COURSES>
+	at quickLearn.TestCaseFourAssertion.assertValidations(TestCaseFourAssertion.java:39)
+
